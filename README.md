@@ -1,63 +1,115 @@
-# 👋 Hi, I’m Soumita Chatterjee Mitra
+<!-- HERO SECTION -->
+<div align="center">
 
-Welcome to my little corner on GitHub 🌸  
-This page is a snapshot of who I am, what I love doing, and what I’m building.
+<h1>🚀 SOUMITA CHATTERJEE MITRA</h1>
 
----
+<h3>
+Creator • Food Entrepreneur • Fashion Influencer in the Making
+</h3>
 
-## 🌿 About Me
+<p>
+<b>Building boldly. Creating consistently. Growing intentionally.</b>
+</p>
 
-- ✍️ Former Content Writer  
-- 🎨 Aspiring Fashion Influencer  
-- 🍳 Passionate Home Chef & Food Creator  
-- 💻 Learning & exploring digital tools, websites, and online business ideas  
-- 🌱 Believer in slow growth, creativity, and meaningful work  
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=22&pause=1000&color=F7C873&center=true&vCenter=true&width=500&lines=Bold+Creator;Food+%26+Fashion+Journey;Personal+Brand+in+Progress;Turning+Skills+into+Impact" />
 
----
+<br/><br/>
 
-## 🧠 What I’m Interested In
+<img src="https://img.shields.io/badge/Creator-Bold-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Focus-Growth-gold?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Vibe-Confident-black?style=for-the-badge"/>
 
-- Fashion & Styling  
-- Food Content & Home-style Recipes  
-- Personal Branding  
-- Simple Websites & Landing Pages  
-- Digital Products & Online Services  
+<hr width="75%"/>
 
----
+</div>
 
-## 🛠 Skills
+<!-- ABOUT -->
+<h2>🔥 WHO I AM</h2>
 
-- Content Writing (Blogs, Captions, Product Descriptions)  
-- Social Media Content Ideas  
-- Basic Website Content Structure  
-- Home-style Cooking & Menu Planning  
+<p>
+I’m a former content writer turned creator, building a personal brand at the intersection of 
+<b>food, fashion, and digital presence</b>.  
+I believe in clarity, courage, and creating something meaningful — not rushed, but real.
+</p>
 
----
+<ul>
+<li>✍️ Former Professional Content Writer</li>
+<li>🍽 Home Chef & Food Business Explorer</li>
+<li>👗 Aspiring Fashion Influencer</li>
+<li>🌐 Learning Websites, Landing Pages & Sales Funnels</li>
+<li>🧠 Resilient • Self-driven • Growth-focused</li>
+</ul>
 
-## 📌 Current Focus
+<hr/>
 
-- Building my online presence  
-- Exploring collaborations in fashion & food  
-- Learning how to create simple websites and sales pages  
-- Working on personal growth & mental well-being  
+<!-- INTERESTS -->
+<h2>⚡ CORE INTERESTS</h2>
 
----
+<table>
+<tr>
+<td><b>Fashion & Styling</b></td>
+<td><b>Food Content Creation</b></td>
+</tr>
+<tr>
+<td><b>Personal Branding</b></td>
+<td><b>Digital Presence</b></td>
+</tr>
+<tr>
+<td><b>Landing Pages</b></td>
+<td><b>Online Services</b></td>
+</tr>
+</table>
 
-## 🌐 Find Me Online
+<hr/>
 
-- Instagram: _Coming Soon_  
-- Portfolio Website: _In Progress_  
-- Email: _Add your email here_
+<!-- SKILLS -->
+<h2>🛠 SKILLS & STRENGTHS</h2>
 
----
+<ul>
+<li>📝 Brand-focused Content Writing</li>
+<li>📱 Social Media Content Strategy</li>
+<li>🌐 Website & Sales Page Content Structuring</li>
+<li>🍳 Recipe Development & Menu Planning</li>
+</ul>
 
-## 💬 A Little Note
+<hr/>
 
-> “Growth doesn’t have to be loud. Sometimes it’s quiet, consistent, and deeply personal.”
+<!-- STATS -->
+<h2>📊 GITHUB STATS</h2>
 
-Thanks for stopping by 🤍  
-Feel free to explore, connect, or collaborate!
+<div align="center">
 
----
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=gruvbox&hide_border=true" />
 
-⭐ If you like this page, consider starring the repo!
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=gruvbox&hide_border=true" />
+
+</div>
+
+<hr/>
+
+<!-- CONNECT -->
+<h2>🌍 CONNECT</h2>
+
+<ul>
+<li>📸 Instagram: <b>Launching Soon</b></li>
+<li>🌐 Website: <b>In Progress</b></li>
+<li>📧 Email: <b>your@email.com</b></li>
+</ul>
+
+<hr/>
+
+<!-- QUOTE -->
+<div align="center">
+
+<blockquote>
+<b>
+“I’m not rushing.  
+I’m building something that lasts.”
+</b>
+</blockquote>
+
+<p>🔥 Bold creators welcome here 🔥</p>
+
+</div>
